@@ -1,0 +1,2 @@
+Soul File(.soul) aka Soul Document is a text file format used by Text Editors which can store any kind of information except
+machine code.
