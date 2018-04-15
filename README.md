@@ -63,5 +63,16 @@ The latest releases and builds will be found here and on our website. Source cod
 - # Our Website
 [Master-Console_ Inc](http://www.masterconsoleblog.wordpress.com) , we may add some posts, don't mind that. Just go to downloads and choose what you want to download, that's all.
 
+# Installation
+- # Windows
+Use the setup.exe file of Grim to install Grim text editor on Windows
+
+- # Linux
+Download the grim.zip file and extract it.
+
+Open the folder and launch your terminal there. Now make it executable by typing 'chmod +x grim_v1.0.0.py'
+
+Now in Terminal, type 'python ./grim_v1.0.0.py and Enjoy using grim!
+
 # To Contributions and Contributors
 Contributions to grim are welcome and to contributors, we will surely appreciate your gift or your presentation of any kind of new source/feature for our grim. If you have got no ideas, you can surely help us by contributing themes for grim. For that you can the edit the grim_settings.xml file located on grim_settings folder. Your names will surely be given in the about for grim if you contribute to us.
