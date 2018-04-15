@@ -3,6 +3,8 @@ Grim is an Advanced simple yet another text editor which has almost all the feat
 
 Grim's latest releases will be published on Master-Console Inc. and source codes will be available on Github
 
+![alt tag](https://raw.githubusercontent.com/Yet-Zio/Grim-Text-Editor/master/screenshots/grim-text-editor_screenshot.png "Grim")
+
 # Platforms Supported
 Windows: ✔ (Successful(.exe)), You can find the .exe file on build folder
 
