@@ -4,7 +4,7 @@ Grim is an Advanced simple yet another text editor which has almost all the feat
 Grim's latest releases will be published on Master-Console Inc. and source codes will be available on Github
 
 # Platforms Supported
-Windows: ✔ (Successful(.exe)), You can find the .exe setup file on build folder
+Windows: ✔ (Successful(.exe)), You can find the .exe file on build folder
 
 Linux: ✔ (Successful(.py)), setup.py for linux will be added soon...
 
