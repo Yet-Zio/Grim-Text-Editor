@@ -1,1 +1,5 @@
-
+This is a setup file for linux, no setup.py for now, you have to manually install.
+You can also download Grim Text Editor's Setup.zip from our website.
+NOTE: Only download the official and latest setup file from us, some guys may distribute our software in
+      many means maybe even injected with malware. So use the right one.
+© 2018 Master-Console_ Inc.
