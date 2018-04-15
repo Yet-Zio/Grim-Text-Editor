@@ -1,0 +1,173 @@
+How to use Grim Text Editor v1.0.0?
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+1. How to create a new File?
+--------------------------------------
+
+-To Create a file, click File menu and click New File.
+ You can also access this by pressing Ctrl + N on your
+ keyboard.
+
+
+2. How to open a file?
+--------------------------------------
+
+-To Open a file, Click File menu and Click Open.
+ You can also access this by pressing Ctrl + O on your
+ keyboard.
+
+
+3.How to save a file?
+--------------------------------------
+
+-To Save a file, Click File menu and Click Save.
+ You can also access this by pressing Ctrl + S on your
+ keyboard.
+
+
+4. How to use Save as Functionality?
+--------------------------------------
+
+-To Save a new document or use the save as functionality,
+ click on File menu and click save as. You can also
+ access this by pressing Alt + S on your keyboard.
+
+
+5. How to copy text in Grim?
+--------------------------------------
+
+-To copy text, select the text you want to copy to clipboard,
+ then click Edit menu and click copy. Done! You can also 
+ access this by pressing Ctrl + C on your keyboard.
+
+
+6. How to cut text in Grim?
+--------------------------------------
+
+-To cut text, select the text you want to cut to clipboard,
+ then click Edit menu and click cut. Done! You can also 
+ access this by pressing Ctrl + X on your keyboard.
+
+
+7. How to paste text in Grim?
+--------------------------------------
+
+-To paste the text copied to your clipboard, just place your
+ cursor where you want to paste the text to, click Edit menu
+ and click Paste. You can also access this by pressing Ctrl
+ + V on your keyboard.
+
+
+8. How to select all data/text in Grim?
+------------------------------------------------
+
+-To Select all data so that you can later copy/cut the text,
+ click Edit menu and click Select All function. You can also 
+ access this by pressing Ctrl + A on your keyboard.
+
+
+9. How to close Grim Text Editor?
+------------------------------------------------
+
+-To close Grim, Go to file menu and click close. Else
+ Press Ctrl+Q to close.
+
+
+10. How to use Toggle Line Numbers(Show/Hide Line Numbers)?
+--------------------------------------------------------------------
+
+-Normally, Line numbers which show up when you type and
+ enter multiline status, there will be numbers like '1','2','3',
+ etc. which denotes on which line you are?
+
+10.a)Disabling Line Numbers
+-------------------------------
+
+-If you don't like line numbers and don't want it to be shown,
+ then click Preferences menu and click on Toggle Line Numbers.
+ Normally it will be enabled, so if you click the first time, it will
+ be disabled!
+
+10.b)Enabling Line Numbers
+-------------------------------
+
+-Normally Line numbers will be enabled, so if you click Toggle Line 
+ Numbers on Preferences menu, it will be disabled!, to enable it,
+ click on Preferences menu and click on Toggle Line Numbers and 
+ this would enable the line numbers feature again!
+
+
+11. How to zoomin in Grim?
+-------------------------------
+
+-To Zoomin to enlarge the text so that you can see view the text
+ more closely, hold Ctrl + '+'key together.
+
+
+12. How to zoomout in Grim?
+-------------------------------
+
+-To Zoomout to precise the text's size so that you can get
+ a correct view, hold Ctrl + '-' together.
+
+
+13. How to use Help menu
+-------------------------------
+
+-As you may know, help menu consists currently of three tabs:
+
+13.a How to go to (how to) in help menu.(LOL)
+------------------------------------------------
+
+-You are in (how to...) tab which helps you solve
+ your questions, if you still wanna know how to access this
+ tab, then go to help menu and click How to... tab,
+ you can also access this tab by pressing F1 key on your 
+ keyboard.
+
+13.b How to report a bug?
+-------------------------------
+
+-We have added a feature in help menu so that you can
+ report bugs faced on our application, just go to
+ help menu and then click Report Bug! tab and you will see a
+ link where you can visit to report a bug, Make sure it's a 
+ bug and don't try to spam.
+
+-If the application is not loading and you see a severe bug,
+ then you can use the Report_Bug_here.html file located on
+ the help folder to report a bug. Make sure it's a bug
+ and don't say that how to launch the app.
+
+13.c How to know about Grim text editor?
+-----------------------------------------------
+
+-You may be wondering how to know about the version,
+ developer and license of the software if you downloaded
+ it from our website or distributed to you by someone else 
+ inorder to ensure you have a safe, bug free and stable 
+ version of the application.
+
+-So to know about the application, go to help menu
+ and click About Grim, You can also access this tab by 
+ pressing F2 key on your keyboard. That's all
+
+
+
+Developer Details
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Name: Yet Zio, Master-Console_ Affiliates
+Email: maheshdeluxe53@gmail.com, masterconsole000@gmail.com
+Company/Organisation: Master-Console_ Inc
+
+Grim Text Editor: You can use the above details of my devs to
+                  contact them for any needs possible based on
+                  their website and products like me, please 
+                  don't use these details for spamming!
+
+This file is used by the software: Grim Text Editor
+License: MIT License (MIT)
+Owner: Master-Console_ Inc.
+Copyright: (C) 2018 Master-Console_ Inc.
