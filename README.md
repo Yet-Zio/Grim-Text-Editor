@@ -2,6 +2,7 @@
 Grim is an Advanced simple yet another text editor which has almost all the features of a text editor and compaitable with most platforms. Grim was created by Yet-Zio and is owned by him and his organisation-Master-Console_ Inc. Grim is distributed in the MIT License which is a permissive free software license originating at the Massachusetts Institute of Technology, [Know more](https://en.wikipedia.org/wiki/MIT_License)
 
 Grim's latest releases will be published on Master-Console Inc. and source codes will be available on Github
+
 # Platforms Supported
 Windows: ✔ (Successful(.exe)), You can find the .exe file on build folder
 
